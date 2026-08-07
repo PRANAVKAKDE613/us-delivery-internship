@@ -5,6 +5,13 @@
 
 ---
 
+## 🎥 Loom Video Walkthrough
+[![Watch Loom Video Walkthrough](https://img.shields.io/badge/Loom_Video-Watch_Walkthrough-blue?style=for-the-badge&logo=loom)](https://www.loom.com/share/3ab6088bcbf946dfbad1f827e0ecb74e)
+
+- **Loom Video Link**: [https://www.loom.com/share/3ab6088bcbf946dfbad1f827e0ecb74e](https://www.loom.com/share/3ab6088bcbf946dfbad1f827e0ecb74e)
+
+---
+
 ## 📋 Executive Overview
 
 This repository provides an enterprise-ready AI microservice platform designed for **Technical Support Engineers** (Tier-1/Tier-2) and **Technical Account Managers (TAMs)**. It ingests customer tickets and structured account data to perform automated triage, RAG knowledge retrieval, risk detection, and account health briefing.
