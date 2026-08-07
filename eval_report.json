@@ -1,0 +1,110 @@
+{
+  "total_tests": 10,
+  "total_passed": 10,
+  "pass_rate_percentage": 100.0,
+  "average_quality_score": 1.0,
+  "task1_pass_rate": 100.0,
+  "task2_pass_rate": 100.0,
+  "results": [
+    {
+      "test_id": "TC1-01",
+      "task": "Task 1",
+      "name": "P1 SSO Auth Outage with Churn Signal",
+      "is_adversarial": false,
+      "passed": true,
+      "quality_score": 1.0,
+      "details": "Checks passed: area ok, urgency ok, kb match ok, team ok",
+      "execution_time_ms": 5.7
+    },
+    {
+      "test_id": "TC1-02",
+      "task": "Task 1",
+      "name": "API Rate Limits Throttling",
+      "is_adversarial": false,
+      "passed": true,
+      "quality_score": 1.0,
+      "details": "Checks passed: area ok, kb match ok, urgency ok",
+      "execution_time_ms": 4.77
+    },
+    {
+      "test_id": "TC1-03",
+      "task": "Task 1",
+      "name": "Billing Overage Dispute",
+      "is_adversarial": false,
+      "passed": true,
+      "quality_score": 1.0,
+      "details": "Checks passed: area ok, category ok, team ok",
+      "execution_time_ms": 13.57
+    },
+    {
+      "test_id": "TC1-04",
+      "task": "Task 1",
+      "name": "Webhook Gateway Timeout",
+      "is_adversarial": false,
+      "passed": true,
+      "quality_score": 1.0,
+      "details": "Checks passed: area ok, kb match ok, urgency ok",
+      "execution_time_ms": 3.98
+    },
+    {
+      "test_id": "TC1-05-ADV",
+      "task": "Task 1",
+      "name": "Adversarial Ambiguous Multi-topic Ticket",
+      "is_adversarial": true,
+      "passed": true,
+      "quality_score": 1.0,
+      "details": "Adversarial checks passed: escalated to P1 ok, kb surfaced ok, draft response valid ok",
+      "execution_time_ms": 2.68
+    },
+    {
+      "test_id": "TC2-01",
+      "task": "Task 2",
+      "name": "Standard Account Health Brief Structure",
+      "is_adversarial": false,
+      "passed": true,
+      "quality_score": 1.0,
+      "details": "Checks passed: sec 1 ok, sec 2 ok, sec 3 ok",
+      "execution_time_ms": 7.05
+    },
+    {
+      "test_id": "TC2-02",
+      "task": "Task 2",
+      "name": "Churn Risk Detection & Direct Quotes",
+      "is_adversarial": false,
+      "passed": true,
+      "quality_score": 1.0,
+      "details": "Checks passed: churn tickets flagged ok, direct quotes included ok",
+      "execution_time_ms": 5.92
+    },
+    {
+      "test_id": "TC2-03",
+      "task": "Task 2",
+      "name": "Executive Summary Sentence Constraint",
+      "is_adversarial": false,
+      "passed": true,
+      "quality_score": 1.0,
+      "details": "Checks passed: exec summary 3-5 sentences ok, account meta ok",
+      "execution_time_ms": 6.94
+    },
+    {
+      "test_id": "TC2-04",
+      "task": "Task 2",
+      "name": "Output Determinism Verification",
+      "is_adversarial": false,
+      "passed": true,
+      "quality_score": 1.0,
+      "details": "Identical markdown outputs verified across 3 consecutive executions",
+      "execution_time_ms": 27.58
+    },
+    {
+      "test_id": "TC2-05-ADV",
+      "task": "Task 2",
+      "name": "Adversarial Minimal Data Account Brief",
+      "is_adversarial": true,
+      "passed": true,
+      "quality_score": 1.0,
+      "details": "Adversarial checks passed: handled validly ok, valid markdown output ok",
+      "execution_time_ms": 6.26
+    }
+  ]
+}

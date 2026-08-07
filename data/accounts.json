@@ -1,0 +1,502 @@
+[
+  {
+    "account_id": "ACC-001",
+    "company_name": "Acme Healthcare 1",
+    "tier": "SMB",
+    "mrr": 2066,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2026-12-21",
+    "health_score": "CRITICAL",
+    "summary": "SMB customer in Healthcare processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-002",
+    "company_name": "Acme E-commerce 2",
+    "tier": "Enterprise",
+    "mrr": 67188,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2027-05-07",
+    "health_score": "AT_RISK",
+    "summary": "Enterprise customer in E-commerce processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-003",
+    "company_name": "Acme SaaS 3",
+    "tier": "Enterprise",
+    "mrr": 148693,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2027-01-26",
+    "health_score": "STABLE",
+    "summary": "Enterprise customer in SaaS processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-004",
+    "company_name": "Acme Logistics 4",
+    "tier": "Enterprise",
+    "mrr": 121076,
+    "assigned_tam": "TAM_Alice",
+    "contract_end_date": "2026-11-03",
+    "health_score": "CRITICAL",
+    "summary": "Enterprise customer in Logistics processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-005",
+    "company_name": "Acme Retail 5",
+    "tier": "Enterprise",
+    "mrr": 28403,
+    "assigned_tam": "TAM_Diana",
+    "contract_end_date": "2027-03-14",
+    "health_score": "CRITICAL",
+    "summary": "Enterprise customer in Retail processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-006",
+    "company_name": "Acme Fintech 6",
+    "tier": "Mid-Market",
+    "mrr": 10648,
+    "assigned_tam": "TAM_Alice",
+    "contract_end_date": "2026-10-12",
+    "health_score": "CRITICAL",
+    "summary": "Mid-Market customer in Fintech processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-007",
+    "company_name": "Acme Healthcare 7",
+    "tier": "SMB",
+    "mrr": 10231,
+    "assigned_tam": "TAM_Diana",
+    "contract_end_date": "2026-09-08",
+    "health_score": "HEALTHY",
+    "summary": "SMB customer in Healthcare processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-008",
+    "company_name": "Acme E-commerce 8",
+    "tier": "SMB",
+    "mrr": 969,
+    "assigned_tam": "TAM_Charlie",
+    "contract_end_date": "2026-12-12",
+    "health_score": "CRITICAL",
+    "summary": "SMB customer in E-commerce processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-009",
+    "company_name": "Acme SaaS 9",
+    "tier": "Mid-Market",
+    "mrr": 20428,
+    "assigned_tam": "TAM_Evan",
+    "contract_end_date": "2027-03-22",
+    "health_score": "STABLE",
+    "summary": "Mid-Market customer in SaaS processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-010",
+    "company_name": "Acme Logistics 10",
+    "tier": "SMB",
+    "mrr": 2280,
+    "assigned_tam": "TAM_Alice",
+    "contract_end_date": "2027-01-04",
+    "health_score": "AT_RISK",
+    "summary": "SMB customer in Logistics processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-011",
+    "company_name": "Acme Retail 11",
+    "tier": "Enterprise",
+    "mrr": 116401,
+    "assigned_tam": "TAM_Alice",
+    "contract_end_date": "2026-10-19",
+    "health_score": "HEALTHY",
+    "summary": "Enterprise customer in Retail processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-012",
+    "company_name": "Acme Fintech 12",
+    "tier": "Enterprise",
+    "mrr": 93680,
+    "assigned_tam": "TAM_Evan",
+    "contract_end_date": "2027-06-26",
+    "health_score": "AT_RISK",
+    "summary": "Enterprise customer in Fintech processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-013",
+    "company_name": "Acme Healthcare 13",
+    "tier": "Mid-Market",
+    "mrr": 21018,
+    "assigned_tam": "TAM_Alice",
+    "contract_end_date": "2027-04-22",
+    "health_score": "STABLE",
+    "summary": "Mid-Market customer in Healthcare processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-014",
+    "company_name": "Acme E-commerce 14",
+    "tier": "Mid-Market",
+    "mrr": 13025,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2027-08-01",
+    "health_score": "HEALTHY",
+    "summary": "Mid-Market customer in E-commerce processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-015",
+    "company_name": "Acme SaaS 15",
+    "tier": "Enterprise",
+    "mrr": 44237,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2026-10-12",
+    "health_score": "HEALTHY",
+    "summary": "Enterprise customer in SaaS processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-016",
+    "company_name": "Acme Logistics 16",
+    "tier": "Enterprise",
+    "mrr": 141478,
+    "assigned_tam": "TAM_Alice",
+    "contract_end_date": "2026-11-28",
+    "health_score": "HEALTHY",
+    "summary": "Enterprise customer in Logistics processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-017",
+    "company_name": "Acme Retail 17",
+    "tier": "SMB",
+    "mrr": 3019,
+    "assigned_tam": "TAM_Charlie",
+    "contract_end_date": "2027-01-16",
+    "health_score": "CRITICAL",
+    "summary": "SMB customer in Retail processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-018",
+    "company_name": "Acme Fintech 18",
+    "tier": "SMB",
+    "mrr": 21388,
+    "assigned_tam": "TAM_Charlie",
+    "contract_end_date": "2027-07-23",
+    "health_score": "AT_RISK",
+    "summary": "SMB customer in Fintech processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-019",
+    "company_name": "Acme Healthcare 19",
+    "tier": "SMB",
+    "mrr": 17245,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2026-10-09",
+    "health_score": "AT_RISK",
+    "summary": "SMB customer in Healthcare processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-020",
+    "company_name": "Acme E-commerce 20",
+    "tier": "SMB",
+    "mrr": 6624,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2027-03-16",
+    "health_score": "STABLE",
+    "summary": "SMB customer in E-commerce processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-021",
+    "company_name": "Acme SaaS 21",
+    "tier": "Enterprise",
+    "mrr": 70488,
+    "assigned_tam": "TAM_Charlie",
+    "contract_end_date": "2026-10-11",
+    "health_score": "STABLE",
+    "summary": "Enterprise customer in SaaS processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-022",
+    "company_name": "Acme Logistics 22",
+    "tier": "Mid-Market",
+    "mrr": 20983,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2027-02-19",
+    "health_score": "HEALTHY",
+    "summary": "Mid-Market customer in Logistics processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-023",
+    "company_name": "Acme Retail 23",
+    "tier": "Enterprise",
+    "mrr": 116667,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2027-03-16",
+    "health_score": "STABLE",
+    "summary": "Enterprise customer in Retail processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-024",
+    "company_name": "Acme Fintech 24",
+    "tier": "SMB",
+    "mrr": 10697,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2027-06-30",
+    "health_score": "HEALTHY",
+    "summary": "SMB customer in Fintech processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-025",
+    "company_name": "Acme Healthcare 25",
+    "tier": "Mid-Market",
+    "mrr": 5414,
+    "assigned_tam": "TAM_Diana",
+    "contract_end_date": "2026-12-09",
+    "health_score": "STABLE",
+    "summary": "Mid-Market customer in Healthcare processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-026",
+    "company_name": "Acme E-commerce 26",
+    "tier": "Mid-Market",
+    "mrr": 5416,
+    "assigned_tam": "TAM_Diana",
+    "contract_end_date": "2027-02-21",
+    "health_score": "STABLE",
+    "summary": "Mid-Market customer in E-commerce processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-027",
+    "company_name": "Acme SaaS 27",
+    "tier": "SMB",
+    "mrr": 13095,
+    "assigned_tam": "TAM_Diana",
+    "contract_end_date": "2026-10-06",
+    "health_score": "STABLE",
+    "summary": "SMB customer in SaaS processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-028",
+    "company_name": "Acme Logistics 28",
+    "tier": "Mid-Market",
+    "mrr": 22247,
+    "assigned_tam": "TAM_Diana",
+    "contract_end_date": "2026-09-28",
+    "health_score": "HEALTHY",
+    "summary": "Mid-Market customer in Logistics processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-029",
+    "company_name": "Acme Retail 29",
+    "tier": "Mid-Market",
+    "mrr": 2034,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2027-03-13",
+    "health_score": "STABLE",
+    "summary": "Mid-Market customer in Retail processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-030",
+    "company_name": "Acme Fintech 30",
+    "tier": "Enterprise",
+    "mrr": 141710,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2027-04-26",
+    "health_score": "AT_RISK",
+    "summary": "Enterprise customer in Fintech processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-031",
+    "company_name": "Acme Healthcare 31",
+    "tier": "Enterprise",
+    "mrr": 26742,
+    "assigned_tam": "TAM_Alice",
+    "contract_end_date": "2026-10-04",
+    "health_score": "STABLE",
+    "summary": "Enterprise customer in Healthcare processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-032",
+    "company_name": "Acme E-commerce 32",
+    "tier": "SMB",
+    "mrr": 15706,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2026-11-07",
+    "health_score": "HEALTHY",
+    "summary": "SMB customer in E-commerce processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-033",
+    "company_name": "Acme SaaS 33",
+    "tier": "SMB",
+    "mrr": 19579,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2026-12-18",
+    "health_score": "STABLE",
+    "summary": "SMB customer in SaaS processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-034",
+    "company_name": "Acme Logistics 34",
+    "tier": "Enterprise",
+    "mrr": 85274,
+    "assigned_tam": "TAM_Diana",
+    "contract_end_date": "2027-05-26",
+    "health_score": "AT_RISK",
+    "summary": "Enterprise customer in Logistics processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-035",
+    "company_name": "Acme Retail 35",
+    "tier": "Mid-Market",
+    "mrr": 14179,
+    "assigned_tam": "TAM_Alice",
+    "contract_end_date": "2027-04-24",
+    "health_score": "CRITICAL",
+    "summary": "Mid-Market customer in Retail processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-036",
+    "company_name": "Acme Fintech 36",
+    "tier": "Mid-Market",
+    "mrr": 9678,
+    "assigned_tam": "TAM_Charlie",
+    "contract_end_date": "2027-04-25",
+    "health_score": "AT_RISK",
+    "summary": "Mid-Market customer in Fintech processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-037",
+    "company_name": "Acme Healthcare 37",
+    "tier": "SMB",
+    "mrr": 15556,
+    "assigned_tam": "TAM_Alice",
+    "contract_end_date": "2027-06-17",
+    "health_score": "HEALTHY",
+    "summary": "SMB customer in Healthcare processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-038",
+    "company_name": "Acme E-commerce 38",
+    "tier": "Enterprise",
+    "mrr": 124359,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2026-09-06",
+    "health_score": "STABLE",
+    "summary": "Enterprise customer in E-commerce processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-039",
+    "company_name": "Acme SaaS 39",
+    "tier": "SMB",
+    "mrr": 24407,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2026-11-23",
+    "health_score": "AT_RISK",
+    "summary": "SMB customer in SaaS processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-040",
+    "company_name": "Acme Logistics 40",
+    "tier": "Enterprise",
+    "mrr": 101972,
+    "assigned_tam": "TAM_Evan",
+    "contract_end_date": "2027-05-22",
+    "health_score": "AT_RISK",
+    "summary": "Enterprise customer in Logistics processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-041",
+    "company_name": "Acme Retail 41",
+    "tier": "Enterprise",
+    "mrr": 146147,
+    "assigned_tam": "TAM_Diana",
+    "contract_end_date": "2026-11-04",
+    "health_score": "HEALTHY",
+    "summary": "Enterprise customer in Retail processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-042",
+    "company_name": "Acme Fintech 42",
+    "tier": "Mid-Market",
+    "mrr": 16365,
+    "assigned_tam": "TAM_Alice",
+    "contract_end_date": "2027-05-03",
+    "health_score": "CRITICAL",
+    "summary": "Mid-Market customer in Fintech processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-043",
+    "company_name": "Acme Healthcare 43",
+    "tier": "Enterprise",
+    "mrr": 26360,
+    "assigned_tam": "TAM_Bob",
+    "contract_end_date": "2027-08-04",
+    "health_score": "STABLE",
+    "summary": "Enterprise customer in Healthcare processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-044",
+    "company_name": "Acme E-commerce 44",
+    "tier": "SMB",
+    "mrr": 24416,
+    "assigned_tam": "TAM_Evan",
+    "contract_end_date": "2027-03-29",
+    "health_score": "CRITICAL",
+    "summary": "SMB customer in E-commerce processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-045",
+    "company_name": "Acme SaaS 45",
+    "tier": "Mid-Market",
+    "mrr": 22943,
+    "assigned_tam": "TAM_Alice",
+    "contract_end_date": "2027-07-07",
+    "health_score": "CRITICAL",
+    "summary": "Mid-Market customer in SaaS processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-046",
+    "company_name": "Acme Logistics 46",
+    "tier": "Mid-Market",
+    "mrr": 6253,
+    "assigned_tam": "TAM_Charlie",
+    "contract_end_date": "2027-07-24",
+    "health_score": "CRITICAL",
+    "summary": "Mid-Market customer in Logistics processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-047",
+    "company_name": "Acme Retail 47",
+    "tier": "Enterprise",
+    "mrr": 91217,
+    "assigned_tam": "TAM_Diana",
+    "contract_end_date": "2027-07-03",
+    "health_score": "CRITICAL",
+    "summary": "Enterprise customer in Retail processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-048",
+    "company_name": "Acme Fintech 48",
+    "tier": "Mid-Market",
+    "mrr": 13157,
+    "assigned_tam": "TAM_Charlie",
+    "contract_end_date": "2026-09-26",
+    "health_score": "STABLE",
+    "summary": "Mid-Market customer in Fintech processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-049",
+    "company_name": "Acme Healthcare 49",
+    "tier": "SMB",
+    "mrr": 1972,
+    "assigned_tam": "TAM_Evan",
+    "contract_end_date": "2027-06-08",
+    "health_score": "STABLE",
+    "summary": "SMB customer in Healthcare processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  },
+  {
+    "account_id": "ACC-050",
+    "company_name": "Acme E-commerce 50",
+    "tier": "Mid-Market",
+    "mrr": 22262,
+    "assigned_tam": "TAM_Diana",
+    "contract_end_date": "2027-02-23",
+    "health_score": "HEALTHY",
+    "summary": "Mid-Market customer in E-commerce processing high transaction volume. Main contact is VP of Engineering. Active contract renewed annually."
+  }
+]
