@@ -12,12 +12,12 @@ jobs:
 
     steps:
     - name: Check out repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v4
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v5
       with:
-        python-version: "3.10"
+        python-version: "3.11"
 
     - name: Install dependencies
       run: |
@@ -25,15 +25,19 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run Pytest Suite
+      env:
+        PYTHONPATH: .
       run: |
         python -m pytest tests/
 
     - name: Run Evaluation Harness
+      env:
+        PYTHONPATH: .
       run: |
         python -m src.eval_harness
 
     - name: Upload Eval Reports Artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: eval-reports
         path: |
